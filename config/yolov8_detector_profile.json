@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "description": "Default detector profile for the YOLOv8 migration bridge.",
+  "model_path": "/home/jetson/yahboom_ws/best.pt",
+  "video_device": "/dev/video2",
+  "frame_width": 640,
+  "frame_height": 480,
+  "loop_hz": 10.0,
+  "confidence": 0.35,
+  "iou": 0.45,
+  "max_det": 20,
+  "detections_topic": "/traffic_sign/detections"
+}

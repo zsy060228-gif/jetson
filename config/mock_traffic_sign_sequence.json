@@ -1,0 +1,51 @@
+[
+  {
+    "class_name": "red_light",
+    "legacy_sign_id": 5,
+    "confidence": 0.95,
+    "area_ratio": 0.02,
+    "duration_sec": 3.0
+  },
+  {
+    "class_name": "",
+    "legacy_sign_id": -1,
+    "confidence": 0.0,
+    "area_ratio": 0.0,
+    "duration_sec": 2.0
+  },
+  {
+    "class_name": "green_light",
+    "legacy_sign_id": 3,
+    "confidence": 0.95,
+    "area_ratio": 0.02,
+    "duration_sec": 2.0
+  },
+  {
+    "class_name": "",
+    "legacy_sign_id": -1,
+    "confidence": 0.0,
+    "area_ratio": 0.0,
+    "duration_sec": 2.0
+  },
+  {
+    "class_name": "turn_left",
+    "legacy_sign_id": 4,
+    "confidence": 0.95,
+    "area_ratio": 0.02,
+    "duration_sec": 2.0
+  },
+  {
+    "class_name": "",
+    "legacy_sign_id": -1,
+    "confidence": 0.0,
+    "area_ratio": 0.0,
+    "duration_sec": 2.0
+  },
+  {
+    "class_name": "slow_down",
+    "legacy_sign_id": 7,
+    "confidence": 0.95,
+    "area_ratio": 0.02,
+    "duration_sec": 3.0
+  }
+]

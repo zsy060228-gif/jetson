@@ -1,0 +1,110 @@
+{
+  "version": 1,
+  "description": "Legacy sign mapping for YOLOv8 migration bridge. Keys are normalized lowercase class names.",
+  "classes": {
+    "右转": {
+      "legacy_sign_id": 100,
+      "group": "required"
+    },
+    "左转": {
+      "legacy_sign_id": 4,
+      "group": "required"
+    },
+    "人行道": {
+      "legacy_sign_id": 0,
+      "group": "required"
+    },
+    "限速": {
+      "legacy_sign_id": 7,
+      "group": "required"
+    },
+    "解除限速": {
+      "legacy_sign_id": -1,
+      "group": "inactive"
+    },
+    "绿灯": {
+      "legacy_sign_id": 3,
+      "group": "required"
+    },
+    "红灯": {
+      "legacy_sign_id": 5,
+      "group": "required"
+    },
+    "匝道": {
+      "legacy_sign_id": 2,
+      "group": "review"
+    },
+    "警告": {
+      "legacy_sign_id": -1,
+      "group": "unmapped"
+    },
+    "行人": {
+      "legacy_sign_id": 9,
+      "group": "required"
+    },
+    "crosswalk": {
+      "legacy_sign_id": 0,
+      "group": "required"
+    },
+    "pedestrian_crossing": {
+      "legacy_sign_id": 0,
+      "group": "required"
+    },
+    "person": {
+      "legacy_sign_id": 9,
+      "group": "required"
+    },
+    "pedestrian": {
+      "legacy_sign_id": 9,
+      "group": "required"
+    },
+    "ramp": {
+      "legacy_sign_id": 2,
+      "group": "review"
+    },
+    "green": {
+      "legacy_sign_id": 3,
+      "group": "required"
+    },
+    "green_light": {
+      "legacy_sign_id": 3,
+      "group": "required"
+    },
+    "left": {
+      "legacy_sign_id": 4,
+      "group": "required"
+    },
+    "turn_left": {
+      "legacy_sign_id": 4,
+      "group": "required"
+    },
+    "red": {
+      "legacy_sign_id": 5,
+      "group": "required"
+    },
+    "red_light": {
+      "legacy_sign_id": 5,
+      "group": "required"
+    },
+    "slow": {
+      "legacy_sign_id": 7,
+      "group": "required"
+    },
+    "slow_down": {
+      "legacy_sign_id": 7,
+      "group": "required"
+    },
+    "no_entry": {
+      "legacy_sign_id": 8,
+      "group": "required"
+    },
+    "right": {
+      "legacy_sign_id": 100,
+      "group": "required"
+    },
+    "turn_right": {
+      "legacy_sign_id": 100,
+      "group": "required"
+    }
+  }
+}
